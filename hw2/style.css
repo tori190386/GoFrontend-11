@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+/* 1.txt */
+body {
+	background: navy;
+}
+
+/* 2.txt */
+.parent1 {
+   	margin: 10px;
+    width: 450px;
+	background: white;
+}
+.сaption {
+	margin: 15px;
+    color: white;
+	background: red;
+	display: inline-block;
+}
+.blue {
+	margin: 15px;
+    width: 350px;
+	height:  50px;
+    background: blue;
+	display: inline-block;
+}
+.yellow {
+	margin: 15px;
+    width: 350px;
+	height:  50px;
+   	background: yellow;
+	display: inline-block;
+}
+/* 3.txt */
+.parent2 {
+   	margin: 10px;
+	padding: 10px;
+    width: 500px;
+	background: white;
+}
+.one {
+	margin: 15 0 35 10px;
+	width: 160px;
+	height:  120px;
+   	background: red;
+}
+.two {
+	margin: 10px;
+	width: 300px;
+	height:  120px;
+   	background: #FF8000;
+}
+.three {
+	margin: 35 0 15 10px;
+	width: 460px;
+	height:  120px;
+   	background: navy;
+}
+/* 4 */
+.jot {
+	margin: 10px;
+	padding: 10 20 15 10px;
+    background: #ff733A;
+	font-size: 25px;
+	display: inline-block;
+}
+/* 5 */
+.grey_h {
+	margin: 10px;
+	padding: 10px;
+	width: 500px;
+    background: #D6D7BE;
+}
+.grey_h h1, h2, h3, p  {
+    padding: 10px;
+}
+h1 {
+    color: #532601;
+}
+h3 {
+    color: #875327;
+}
+a {
+    color: #285501;
+}
+/* 6 c 77 строки повторяется padding */
+.six {
+	margin: 10px;
+	width: 446px;
+    background: white;
+	border: 2px solid red;
+}
+/* 6 c 77 строки повторяется padding */
+.seven {
+	margin: 10px;
+    background: white;
+	border: 2px solid green;
+}
+font {
+    face: cursive; 
+}
+.blue_sub {
+    color: blue;
+}
+.red_sup {
+    color: red;
+}
